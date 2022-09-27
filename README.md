@@ -1,9 +1,9 @@
-![Rachael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachaelkoestartyo&count_private=true&hide=stars&theme=solarized-light)
-
 <!--
 **rachaelkoestartyo/rachaelkoestartyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+![Rachael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachaelkoestartyo&count_private=true&hide=stars&theme=solarized-light)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
